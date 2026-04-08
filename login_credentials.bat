@@ -1,0 +1,71 @@
+@echo off
+echo ========================================
+echo 🎯 QUANTUM ERP - UNIQUE LOGIN CREDENTIALS
+echo ========================================
+echo.
+echo Welcome to the Quantum ERP System!
+echo Where Innovation Meets Education
+echo.
+echo ========================================
+echo 🔐 UNIQUE LOGIN CREDENTIALS
+echo ========================================
+echo.
+echo 👑 SYSTEM MAESTRO (Administrator):
+echo    Username: quantum_admin
+echo    Password: Qu@ntum2024!
+echo    Role: Admin
+echo.
+echo 🧠 KNOWLEDGE ARCHITECT (Teacher):
+echo    Username: prof_innovator
+echo    Password: EduC@t2024#
+echo    Role: Teacher
+echo.
+echo 🚀 FUTURE INNOVATOR (Student):
+echo    Username: student_explorer
+echo    Password: L3@rn2024$
+echo    Role: Student
+echo.
+echo 📊 DATA SCIENTIST (Administrator):
+echo    Username: data_scientist
+echo    Password: D@t@Sc!2024
+echo    Role: Admin
+echo.
+echo 🎓 MENTOR GUIDE (Teacher):
+echo    Username: mentor_guide
+echo    Password: M3nt0r2024!
+echo    Role: Teacher
+echo.
+echo 🌟 FUTURE LEADER (Student):
+echo    Username: future_leader
+echo    Password: FutuR3_2024#
+echo    Role: Student
+echo.
+echo ========================================
+echo 🚀 HOW TO ACCESS THE SYSTEM
+echo ========================================
+echo.
+echo 1. Make sure both backend and frontend are running:
+echo    - Backend: http://localhost:8080 (Spring Boot)
+echo    - Frontend: http://localhost:3000 (React)
+echo.
+echo 2. Open your browser and go to: http://localhost:3000
+echo.
+echo 3. Use any of the credentials above to login
+echo.
+echo 4. Select the appropriate role from the dropdown
+echo.
+echo ========================================
+echo ✨ UNIQUE FEATURES
+echo ========================================
+echo.
+echo • Creative CAPTCHA with tech-themed words
+echo • Role-based colorful interface design
+echo • Gradient backgrounds and modern UI
+echo • Unique usernames and strong passwords
+echo • Professional role titles and descriptions
+echo.
+echo ========================================
+echo 🎯 ENJOY YOUR QUANTUM ERP EXPERIENCE!
+echo ========================================
+echo.
+pause
