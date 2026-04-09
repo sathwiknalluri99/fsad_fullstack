@@ -215,4 +215,4 @@ Frontend can be served from built files or another instance.
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License..
